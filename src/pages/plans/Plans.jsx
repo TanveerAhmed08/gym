@@ -1,7 +1,12 @@
 import React from "react";
-import "./Plans.css";
+import "./plans.css";
 const Plans = () => {
-  return <div></div>;
+  return (
+     <div>
+       Plans
+    </div>
+)
 };
+
 
 export default Plans;

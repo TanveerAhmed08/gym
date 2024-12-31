@@ -4,7 +4,7 @@ import './trainers.css'
 const Trainers = () => {
   return (
     <div>
-      
+      Trainer
     </div>
   )
 }
